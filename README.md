@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @Snap26 
+- 👋 Hi, I’m Riddhiman Sharma 
 - 👀 I’m interested in program learning
 - 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me my mail-id riddhimansharma10@gmail.com
 
 <!---
